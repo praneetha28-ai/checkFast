@@ -9,11 +9,9 @@ This is an Android App submission made to Google Developers Student Clubs - Indi
 * Plan your next CGPA by getting to know how much you will have to score this semester
 * Split food bills easily with your friends using our fast and simple tool
 
-| ![](![calculatorapplandingpage](https://user-images.githubusercontent.com/76510979/195999856-bc2c701f-eeeb-41fa-9e16-7bd6739d4df3.png)) | 
-![](![checkcattendancecoverdesignedit](https://user-images.githubusercontent.com/76510979/195999879-b67896bf-21e3-4e62-a008-40aa8ca1d646.png)) | ![](![logoapp](https://user-images.githubusercontent.com/76510979/195999900-25982f5e-7b15-4bc0-9fe7-6d8201e19525.png)) 
-| ![](![plancgpadesignedit](https://user-images.githubusercontent.com/76510979/195999909-dc291f25-09a7-472f-8410-8755e5458cdd.png)) 
-| ![](![splitbillscoverdesignedit](https://user-images.githubusercontent.com/76510979/195999918-2b2aa49b-ea29-437f-9076-d877a152686b.png)) 
- 
+| ![](![calculatorapplandingpage](https://user-images.githubusercontent.com/76510979/196000082-627bef76-cd05-4ab4-bda5-e780ff73a5b4.png)
+) | ![](![logoapp](https://user-images.githubusercontent.com/76510979/196000090-02d2bdd8-44a9-4160-84af-7ed511fce757.png)
+) | ![](![checkcattendancecoverdesignedit](https://user-images.githubusercontent.com/76510979/196000103-dd94e88b-92b1-47f8-9b36-aa67cce37b0d.png)) | ![](![plancgpadesignedit](https://user-images.githubusercontent.com/76510979/196000114-cc5e672e-4eb0-425a-bbab-77c3d6e3f71e.png)) | ![](![splitbillscoverdesignedit](https://user-images.githubusercontent.com/76510979/196000131-ed3e473c-7bdb-4ad0-8cd5-9671eedb5286.png)) | 
 | --- | --- | --- | --- | --- |
 
 **Functionalities and Concepts Used:**
