@@ -9,7 +9,7 @@ This is an Android App submission made to Google Developers Student Clubs - Indi
 * Plan your next CGPA by getting to know how much you will have to score this semester
 * Split food bills easily with your friends using our fast and simple tool
 
-![image](https://user-images.githubusercontent.com/81429137/196000094-f484b0fc-42cc-402e-91cc-2c99bf04bd72.png)
+![image](https://user-images.githubusercontent.com/81429137/196000825-2e4da427-43b8-40c4-bbac-e0be9ebf27d3.png)
 
 **Functionalities and Concepts Used:**
 * Compose Navigation, Adaptive Icons, Material Theming using Compose
